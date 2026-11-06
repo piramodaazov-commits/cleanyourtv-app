@@ -26,7 +26,7 @@ jobs:
 
       - name: Apply Russian translations
         run: |
-          unzip -o cleanyourtv-russian-resources-final.zip -d .
+          unzip -o cleanyourtv-russian-resources-final-1.zip -d .
 
       - name: Build APK
         run: |
